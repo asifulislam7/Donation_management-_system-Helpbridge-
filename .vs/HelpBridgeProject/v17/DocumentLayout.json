@@ -1,0 +1,696 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|c:\\users\\asus\\desktop\\repos\\helpbridgeproject\\helpbridgeproject\\vhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\vhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\usertrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\usertrack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\userregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\userhelpseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\userhelpseeker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\usereresume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\usereresume.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\userdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\userdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\upassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\upassword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\ulogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\ulogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\uhelppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\uhelppage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\uhelpid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\uhelpid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\udonarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\udonarpage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\udonaridcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\udonaridcs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\volunteertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\volunteertask.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\volunteerpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\volunteerpass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\volunteerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\volunteerlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\volunteerdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\volunteerdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\volunteerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\volunteerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\volunteerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\volunteerapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\vhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\vhomepage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\volunteerdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\volunteerdonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\userhelpseeker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\userhelpseeker.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\userhelpseeker.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\userhelpseeker.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\uhelpid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\uhelpid.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\uhelpid.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\uhelpid.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\admindonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\admindonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\admindonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\admindonation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\advolunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\advolunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\advolunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\advolunteer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\admindash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\addcrsis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\addcrsis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\addcrsis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\addcrsis.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\helpbridgeproject\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFE40FC6-CCCA-4CC5-85F6-4E8EB6CD83FC}|HelpBridgeProject\\HelpBridgeProject.csproj|solutionrelative:helpbridgeproject\\adminuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Ulogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Ulogin.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Ulogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Ulogin.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Ulogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:14.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Upassword.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Upassword.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Upassword.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Upassword.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Upassword.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:17.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "userdonation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\userdonation.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\userdonation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\userdonation.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\userdonation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:22.317Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRegistration.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UserRegistration.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\UserRegistration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UserRegistration.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\UserRegistration.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:25.347Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usertrack.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Usertrack.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Usertrack.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Usertrack.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Usertrack.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:27.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vhomepage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Vhomepage.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Vhomepage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Vhomepage.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Vhomepage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:03:25.152Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "userHelpseeker.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\userHelpseeker.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\userHelpseeker.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\userHelpseeker.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\userHelpseeker.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:25:07.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Uhelppage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Uhelppage.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Uhelppage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Uhelppage.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Uhelppage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:10.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UhelpID.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UhelpID.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\UhelpID.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UhelpID.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\UhelpID.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Udonarpage.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Udonarpage.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Udonarpage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Udonarpage.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Udonarpage.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:55.496Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsereResume.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UsereResume.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\UsereResume.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UsereResume.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\UsereResume.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:20.077Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UdonarIDcs.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UdonarIDcs.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\UdonarIDcs.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UdonarIDcs.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\UdonarIDcs.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:53.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Volunteertask.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteertask.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Volunteertask.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteertask.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Volunteertask.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:47.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Volunteerpass.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerpass.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Volunteerpass.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerpass.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Volunteerpass.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:44.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "volunteerlogin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\volunteerlogin.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\volunteerlogin.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\volunteerlogin.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\volunteerlogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T11:24:41.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Volunteerapplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerapplication.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Volunteerapplication.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerapplication.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Volunteerapplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:03:34.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Volunteerdonation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerdonation.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Volunteerdonation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerdonation.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Volunteerdonation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:00:53.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Volunteerapplication.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerapplication.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Volunteerapplication.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerapplication.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Volunteerapplication.cs",
+              "ViewState": "AgIAALQAAAAAAAAAAAAAACIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:03:37.391Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Vhomepage.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Vhomepage.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Vhomepage.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Vhomepage.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Vhomepage.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:03:29.774Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Volunteerdonation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerdonation.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Volunteerdonation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Volunteerdonation.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Volunteerdonation.cs",
+              "ViewState": "AgIAAK0AAAAAAAAAAAAYwMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T10:02:20.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "userHelpseeker.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\userHelpseeker.resx",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\userHelpseeker.resx",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\userHelpseeker.resx",
+              "RelativeToolTip": "HelpBridgeProject\\userHelpseeker.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-12T09:59:33.997Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "userHelpseeker.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\userHelpseeker.Designer.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\userHelpseeker.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\userHelpseeker.Designer.cs",
+              "RelativeToolTip": "HelpBridgeProject\\userHelpseeker.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T09:59:26.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UhelpID.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UhelpID.Designer.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\UhelpID.Designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UhelpID.Designer.cs",
+              "RelativeToolTip": "HelpBridgeProject\\UhelpID.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-12T09:59:04.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UhelpID.resx",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UhelpID.resx",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\UhelpID.resx",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\UhelpID.resx",
+              "RelativeToolTip": "HelpBridgeProject\\UhelpID.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-10-12T09:59:01.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Advolunteer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Advolunteer.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Advolunteer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Advolunteer.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Advolunteer.cs",
+              "ViewState": "AgIAAPIBAAAAAAAAAAD4v0gBAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:50:48.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Adminuser.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminuser.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Adminuser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminuser.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Adminuser.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:13:01.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Admindash.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Admindash.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Admindash.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Admindash.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Admindash.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:53:01.19Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AdminApplication.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\AdminApplication.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\AdminApplication.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\AdminApplication.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\AdminApplication.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T17:33:13.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Admindonation.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Admindonation.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Admindonation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Admindonation.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Admindonation.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:16:15.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "AdminLog.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\AdminLog.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\AdminLog.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\AdminLog.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\AdminLog.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:53:42.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Admindonation.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Admindonation.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Admindonation.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Admindonation.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Admindonation.cs",
+              "ViewState": "AgIAAI8AAAAAAAAAAAAswHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T21:00:51.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Adminapproval.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminapproval.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Adminapproval.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminapproval.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Adminapproval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAP8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T20:57:08.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "AdminApplication.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\AdminApplication.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\AdminApplication.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\AdminApplication.cs",
+              "RelativeToolTip": "HelpBridgeProject\\AdminApplication.cs",
+              "ViewState": "AgIAAIgAAAAAAAAAAAAqwEEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T12:51:42.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Adminapproval.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminapproval.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Adminapproval.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminapproval.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Adminapproval.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:19:17.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Advolunteer.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Advolunteer.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Advolunteer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Advolunteer.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Advolunteer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T16:50:42.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Admindash.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Admindash.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Admindash.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Admindash.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Admindash.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-11T15:48:25.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "AdminLog.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\AdminLog.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\AdminLog.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\AdminLog.cs",
+              "RelativeToolTip": "HelpBridgeProject\\AdminLog.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:15:33.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Adminevent.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminevent.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Adminevent.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminevent.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Adminevent.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:53:32.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Form1.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Form1.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:13:15.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Form1.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Form1.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Form1.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Form1.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAvwCQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:13:28.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Addcrsis.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Addcrsis.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Addcrsis.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Addcrsis.cs [Design]",
+              "RelativeToolTip": "HelpBridgeProject\\Addcrsis.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-06T18:52:24.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Program.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Program.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Program.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T15:09:30.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Addcrsis.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Addcrsis.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Addcrsis.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Addcrsis.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Addcrsis.cs",
+              "ViewState": "AgIAAP4AAAAAAAAAAAASwA4BAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T18:18:41.151Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "Adminuser.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminuser.cs",
+              "RelativeDocumentMoniker": "HelpBridgeProject\\Adminuser.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Desktop\\repos\\HelpBridgeProject\\HelpBridgeProject\\Adminuser.cs",
+              "RelativeToolTip": "HelpBridgeProject\\Adminuser.cs",
+              "ViewState": "AgIAAFwAAAAAMzMzMzMXwJcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-02T15:25:10.063Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
