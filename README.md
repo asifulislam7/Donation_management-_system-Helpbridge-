@@ -32,19 +32,23 @@ HelpBridge emphasizes accountability, efficiency, and transparency in donation m
 
 
 
+
+
 1\.	Admin Functions
 
 
 
-•	Secure login using Username and password.
+>>	Secure login using Username and password.
 
-•	Manage overall system operations.
+>>	Manage overall system operations.
 
-•	Add and update crisis events (e.g., floods, earthquakes, poverty aid).
+>>	Add and update crisis events (e.g., floods, earthquakes, poverty aid).
 
-•	Assign tasks to volunteers.
+>>	Assign tasks to volunteers.
 
-•	Monitor donation and request activities.
+>>	Monitor donation and request activities.
+
+
 
 
 
@@ -56,13 +60,13 @@ HelpBridge emphasizes accountability, efficiency, and transparency in donation m
 
 
 
-•	Secure login  and password reset.
+>>	Secure login  and password reset.
 
-•	Receive tasks from the admin.
+>>	Receive tasks from the admin.
 
-•	Verify requests made by support seekers.
+>>	Verify requests made by support seekers.
 
-•	Check and validate donations for authenticity and delivery.
+>>	Check and validate donations for authenticity and delivery.
 
 
 
@@ -72,23 +76,21 @@ HelpBridge emphasizes accountability, efficiency, and transparency in donation m
 
 3\.	User Functions (Donor \& Support Seeker)
 
-&nbsp;
+ 
 
-•	Register and login.
+>>	Register and login.
 
-•	Reset Password
+>>	Reset Password
 
 As Donor:
 
-•	Make donations (items, money, or other resources).
+>>	Make donations (items, money, or other resources).
 
-•	Submit resume to join as a volunteer
+>>	Submit resume to join as a volunteer
 
 As Support Seeker:
 
-•	Submit requests for help with required items.
+>>	Submit requests for help with required items.
 
-•	Track request status
-
-
+>>	Track request status
 
